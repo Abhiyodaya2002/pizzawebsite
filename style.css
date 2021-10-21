@@ -56,7 +56,7 @@ body{
    align-items: center; */
   padding: 24px 34px;
   padding: 41px 7px;
-  background: url('/images/new\ image.webp') no-repeat center center/cover;
+  background: url('images/new\ image.webp') no-repeat center center/cover;
  
  opacity: 0.92;
 }
@@ -129,7 +129,7 @@ font-family: 'Yellowtail', cursive;
     font-family: 'Pacifico', cursive;
 }
 .clients{
-    background: url('/images/pizza-386717_960_720.webp') no-repeat center center/cover;
+    background: url('images/pizza-386717_960_720.webp') no-repeat center center/cover;
   /*  background-repeat: no-repeat;
    background-size: 100%; 
   */
